@@ -54,7 +54,7 @@ En promedio cada libro tiene unos 2 ejemplares y se ha prestado apenas 1 vez. Es
 
 ### Gráfico 1: Distribución de préstamos por libro (histograma)
 
-![Distribución de préstamos](/app/src/clase4/Act-Indep4/distribucion_prestamos.png)
+![Distribución de préstamos](src/clase4/Act-Indep4/distribucion_prestamos.png)
 
 **¿Qué muestra?** Cuántos libros caen en cada "cantidad de préstamos". El eje X es el número de préstamos (0, 1, 2...) y el eje Y es cuántos libros tuvieron esa cantidad.
 
@@ -64,7 +64,7 @@ En promedio cada libro tiene unos 2 ejemplares y se ha prestado apenas 1 vez. Es
 
 ### Gráfico 2: Relación entre stock y préstamos (dispersión)
 
-![Stock vs préstamos](/app/src/clase4/Act-Indep4/stock_vs_prestamos.png)
+![Stock vs préstamos](src/clase4/Act-Indep4/stock_vs_prestamos.png)
 
 **¿Qué muestra?** Cada punto verde es un libro. Su posición horizontal (eje X) indica cuántos ejemplares tiene, y su posición vertical (eje Y) indica cuántas veces se prestó.
 
